@@ -1,7 +1,7 @@
 # 🛒 Blinkit Sales Analysis – Excel Dashboard
 
 ## 📌 Overview
-A data-driven Excel dashboard analyzing Blinkit’s sales performance across categories, cities, and time. Designed to help stakeholders monitor key metrics and uncover business insights.
+The purpose of this project is to conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution using Excel dashboards and charts.
 
 ## 🎯 Objectives
 - Track revenue, orders, profit, and AOV
