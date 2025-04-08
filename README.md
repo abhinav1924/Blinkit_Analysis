@@ -11,14 +11,14 @@ A data-driven Excel dashboard analyzing Blinkit’s sales performance across cat
 ## 📊 Key Features
 - Interactive Excel dashboard with slicers
 - Clean visual KPIs and charts
-- Monthly, category, and city-wise breakdowns
+- Item Type, Outlet Establishment, and Location-wise breakdowns
 
 ## 📈 KPIs Tracked
-- Total Revenue  
-- Total Orders  
-- Profit  
+- Total Sales 
+- Average Sales  
+- Average Rating  
 - Average Order Value  
-- Revenue by City & Category  
+- Revenue by Fat Content & Item Type
 
 ## 🛠 Tools Used
 - Microsoft Excel  
