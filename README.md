@@ -4,8 +4,8 @@
 The purpose of this project is to conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution using Excel dashboards and charts.
 
 ## 🎯 Objectives
-- Track revenue, orders, profit, and AOV
-- Analyze performance by category and city
+- Track revenue, items, rating, and Avg Sales
+- Analyze performance by outlet size, location and type.
 - Visualize monthly trends and growth patterns
 
 ## 📊 Key Features
